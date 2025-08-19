@@ -1,3 +1,4 @@
+HEAD
 # Application de recherche – Concours Maître de Conférences / OFPPT
 
 Cette application **Streamlit** permet de rechercher un **Nom** ou un **CIN** dans des résultats de concours
