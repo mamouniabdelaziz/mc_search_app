@@ -1,0 +1,6 @@
+streamlit
+pandas
+PyPDF2==3.0.1
+rapidfuzz==3.9.6
+openpyxl==3.1.5
+unidecode==1.3.8

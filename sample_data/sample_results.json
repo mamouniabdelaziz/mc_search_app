@@ -1,0 +1,18 @@
+[
+  {
+    "nom": "Mamouni Abdelaziz",
+    "cin": "AB123456",
+    "universite": "Université Cadi Ayyad",
+    "specialite": "Informatique",
+    "resultat": "Admis",
+    "source": "uca_2025.csv"
+  },
+  {
+    "nom": "Doe John",
+    "cin": "CD789012",
+    "universite": "Université Mohammed V",
+    "specialite": "Mathématiques",
+    "resultat": "Non admis",
+    "source": "um5_2025.xlsx"
+  }
+]
